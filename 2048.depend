@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1504947629 source:d:\development\projects\2048\main.cpp
+	<SDL2/SDL.h>
+	<stack>
+	<queue>
+	<vector>
+
